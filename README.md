@@ -35,7 +35,7 @@ I make cozy ND friendly spaces, spin up wild app ideas at 2am, and somehow keep 
 
 ## 📬 Find Me
 - GitHub: [github.com/CatgirlRika](#GitHub)  
-- SpaceHey: [spacehey.com/CatgirlRika](SpaceHey)  
+- SpaceHey: [spacehey.com/moonlightrika](SpaceHey)  
 - 📫 How to reach me: Discord is catgirlrika
 - BlueSky: https://bsky.app/profile/catgirlrika.bsky.social
 
