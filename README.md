@@ -1,45 +1,21 @@
-# 🐱✨ CatgirlRika
+# Hi there, I’m Rika 👋
 
-Hii~ I’m Rika! AI tinkerer, roleplay chaos machine, and occasional cat eared menace.  
-I make cozy ND friendly spaces, spin up wild app ideas at 2am, and somehow keep the vibe wholesome *and* unhinged.
+🌸 **About Me**
+- 💻 Tinkerer of tech, community builder, and roleplay enthusiast.  
+- 🎮 Big fan of video games, anime, and manga.  
+- ✨ Love building inclusive, ND-friendly spaces online.  
+- 🛠 Currently working on forums, personal website projects, and comfort focused small business ideas.  
+- 🌙 Magical girl at heart with a soft spot for cozy vibes and found family storytelling.  
 
----
+🌟 **Skills & Tools**
+- Frontend: HTML, CSS, SCSS, some JS  
+- Backend / Hosting: NodeBB, Docker, Ubuntu/Debian, MongoDB  
+- Community Tools: NodeBB customization, Revolt/Matrix bridging, F-Chat familiarity  
+- Design: Pastel/galaxy aesthetics, accessibility first layouts, alt text rich content  
 
-## ⚡ What I Do
-- 🤖 Use AI tools just to make them do cooler things
-- 🛋 Build comfy inclusive online spaces
-- 🎭 Write shenanigans into roleplays until everyone’s crying or laughing
-- 🎨 Make tech and creativity hold hands like besties
-
----
-
-## 📂 Current Projects
-- 🐾 **CozzyCritters** – https://github.com/CatgirlRika/CozyCritters -  Mood Tracker App! 
-- 🌌 **AnySpace Fork** – https://github.com/CatgirlRika/anyspace - Forked AnySpace to improvr it~
-
----
-
-## 🛠 Skills
-- AI assisted coding, design, and automation  
-- Community wrangling (herding cats counts)  
-- Creative writing & worldbuilding  
-- Forum, chat, and web app customization  
+📫 **Reach Me**
+- 💌 Always open to chat about tech, RP, or accessibility projects.  
 
 ---
+💡 *“Build spaces that feel like comfort, not just code.”*
 
-## 💖 Fandom Fuel
-- 📺 *Sailor Moon*, *My Dress Up Darling*, *Kaguya-sama: Love is War*  
-- 🐱 Cat hair: a lifestyle not an accident  
-
----
-
-## 📬 Find 
-- GitHub: github.com/CatgirlRika
-- SpaceHey: https://spacehey.com/moonlightrika
-- 📫 How to reach me: Discord is catgirlrika
-- BlueSky: https://bsky.app/profile/catgirlrika.bsky.social
-
-<!---
-Rikaxnipah/Rikaxnipah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
